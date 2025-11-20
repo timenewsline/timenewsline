@@ -1,2 +1,2 @@
 
-Sitemap: https://timenewsline.github.io/timenewsline/sitemap.xml
+Sitemap: https://x.timenewsline.com/sitemap.xml
