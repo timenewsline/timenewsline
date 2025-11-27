@@ -44,6 +44,7 @@
             <table>
               <tr>
                 <th>URL</th>
+                <th>Images</th>
                 <th>Last Modified</th>
                 <th>Publication Name</th>
                 <th>Publication Date</th>
@@ -54,6 +55,9 @@
                   <td>
                     <xsl:variable name="url" select="sitemap:loc"/>
                     <a href="{$url}"><xsl:value-of select="$url"/></a>
+                  </td>
+                  <td>
+                    1
                   </td>
                   <td>
                     <xsl:value-of select="sitemap:lastmod"/>
