@@ -1,2 +1,2 @@
-
+User-agent: *
 Sitemap: https://x.timenewsline.com/sitemap.xml
